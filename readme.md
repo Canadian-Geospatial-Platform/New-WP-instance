@@ -11,3 +11,4 @@ FOR VM using VMWARE or VIRTUALBOX
 1 - SAME AS ABOVE BUT YOU NEED TO CREATE THE VIRTUALHOST FOR THE NEW SITE
 2- you may have to change the permission to www-data (in Ubuntu) or apache (in centos)
 3 - you may need to enter the necessary info for the IP address in your Host file
+
